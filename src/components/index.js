@@ -1,0 +1,1 @@
+import MyFirstComponent from './MyFirstComponent'
